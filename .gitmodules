@@ -1,0 +1,6 @@
+[submodule "firebase-to-mysql-server"]
+	path = firebase-to-mysql-server
+	url = https://github.com/sunclock/firebase-to-mysql-server.git
+[submodule "firebase-to-mysql-client"]
+	path = firebase-to-mysql-client
+	url = https://github.com/sunclock/firebase-to-mysql-client.git
